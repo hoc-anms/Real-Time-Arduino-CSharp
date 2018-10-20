@@ -1,0 +1,39 @@
+C:\Users\TrinhVanHieu\Desktop\NC\NCKH_2017\NCKH_2017\bin\Debug\NCKH_2017.exe
+C:\Users\TrinhVanHieu\Desktop\NC\NCKH_2017\NCKH_2017\bin\Debug\NCKH_2017.pdb
+C:\Users\TrinhVanHieu\Desktop\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.Form1.resources
+C:\Users\TrinhVanHieu\Desktop\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.Properties.Resources.resources
+C:\Users\TrinhVanHieu\Desktop\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.csproj.GenerateResource.Cache
+C:\Users\TrinhVanHieu\Desktop\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.exe
+C:\Users\TrinhVanHieu\Desktop\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.pdb
+C:\Users\TrinhVanHieu\Desktop\NC\NCKH_2017\NCKH_2017\bin\Debug\ZedGraph.dll
+D:\NCKH_2017\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.exe
+D:\NCKH_2017\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.pdb
+D:\NCKH_2017\NC\NCKH_2017\NCKH_2017\bin\Debug\NCKH_2017.exe
+D:\NCKH_2017\NC\NCKH_2017\NCKH_2017\bin\Debug\NCKH_2017.pdb
+D:\NCKH_2017\NC\NCKH_2017\NCKH_2017\bin\Debug\ZedGraph.dll
+D:\NCKH_2017\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.csprojResolveAssemblyReference.cache
+D:\NCKH_2017\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.Form1.resources
+D:\NCKH_2017\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.Properties.Resources.resources
+D:\NCKH_2017\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.csproj.GenerateResource.Cache
+D:\NCKH_2017\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.csproj.ResolveComReference.cache
+C:\Users\Pham Hoc\Downloads\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.csproj.ResolveComReference.cache
+C:\Users\Pham Hoc\Downloads\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.exe
+C:\Users\Pham Hoc\Downloads\NC\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.pdb
+B:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.csproj.ResolveComReference.cache
+B:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.exe
+B:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.pdb
+B:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\bin\Debug\NCKH_2017.exe
+B:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\bin\Debug\NCKH_2017.pdb
+B:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.csprojResolveAssemblyReference.cache
+B:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.Form1.resources
+B:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.Properties.Resources.resources
+B:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.csproj.GenerateResource.Cache
+D:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.csproj.ResolveComReference.cache
+D:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.exe
+D:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.pdb
+D:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\bin\Debug\NCKH_2017.exe
+D:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\bin\Debug\NCKH_2017.pdb
+D:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.csprojResolveAssemblyReference.cache
+D:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.Form1.resources
+D:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.Properties.Resources.resources
+D:\NCKH 2017\NCKH\Chuongtrinh\NCKH_2017\NCKH_2017\obj\x86\Debug\NCKH_2017.csproj.GenerateResource.Cache
