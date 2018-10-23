@@ -72,21 +72,21 @@ float random_number()
     frequency=1000000/Ttime;
     
     capacitance = (1.44*1000000000)/(20800*frequency);   //calculating the Capacitance in nF
-//    if(capacitance<=200000&&capacitance>=100000)//Hieu chinh...can chinh
-//    {
-//      capacitance=capacitance*1,056667302;
-//    }
-//    if(capacitance<=400&&capacitance>=100)
-//    {
-//      capacitance=capacitance*1,142312128;
-//    }
-//     if(capacitance<=20000&&capacitance>=10000)
-//    {
-//      capacitance=capacitance*1,145565131;
-//    }
-//    lcd.setCursor(0,1);
-//    lcd.print(capacitance);
-//    lcd.print(" nF   ");
+   if(capacitance<=200000&&capacitance>=100000)//Hieu chinh...can chinh
+   {
+     capacitance=capacitance*1,056667302;
+   }
+   if(capacitance<=400&&capacitance>=100)
+   {
+     capacitance=capacitance*1,142312128;
+   }
+    if(capacitance<=20000&&capacitance>=10000)
+   {
+     capacitance=capacitance*1,145565131;
+   }
+   lcd.setCursor(0,1);
+   lcd.print(capacitance);
+   lcd.print(" nF   ");
     delay(100);
     time_now = time_now + millis() - time_start;
 }
